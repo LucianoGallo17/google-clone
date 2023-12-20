@@ -1,0 +1,1 @@
+Este es un sitio web clonado de Google realizado para el Curso Práctico de HTML y CSS de Platzi.
